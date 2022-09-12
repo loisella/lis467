@@ -1,0 +1,13 @@
+body{
+  background-color: lightgrey;
+}
+
+h1{
+  font-family: monospace;
+  font-size: 36px;
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 24px;
+}
